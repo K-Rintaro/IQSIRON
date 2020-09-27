@@ -31,7 +31,7 @@ Option2: You can check the degree of similarity between the result and text file
 
 ## Google Colaboratory
 
-**Japansese**:
+**Japanese**:
 https://colab.research.google.com/drive/1pD-b78DiisueMHf-83yyytGxSNUyMZQx?usp=sharing
 
 **English**:
