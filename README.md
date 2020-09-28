@@ -1,5 +1,5 @@
 # IQSIRON
-Character detection by OCR -Python-
+Character detection with OCR -Python-
 
 ## Required Packages
 pyocr (Required)
@@ -21,11 +21,11 @@ pyocr (Required)
 ## Usage
 1. If you want use HEIC pictures, you need to convert to jpg. (Recommend libheif)
 
-2. Detect character by OCR. That code is included in main.py 
+2. Detect character with OCR. That code is included in main.py 
 
    And the result is defined by "text".
    
-Option1: You can translate the result by Google Translation. That code is included in translate.py.
+Option1: You can translate the result with Google Translation. That code is included in translate.py.
 
 Option2: You can check the degree of similarity between the result and text file that you prepared. That code is included in similarity.py
 
